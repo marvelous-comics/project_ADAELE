@@ -37,6 +37,8 @@ Finally, we've also decided to look at who is writing and editing the comics. Th
 You can find every parts in different notebooks:
 PARSING: parsing_project_ADAELE.ipynb
 
-CLEANING:
+CLEANING:cleaning_project_ADAELE.ipynb
 
-DESCRIPTION OF THE DATASETS:
+DESCRIPTION OF THE DATASETS: Marvellous Comics Notebook.ipynb
+
+In this past weeks, we've spend a lot of time to parse the websites and cleaning the data and not as much as we wanted on exploring the data itself. However we've constructed good and solid guidelines detailled in Marvellous Comics Notebook.ipynb and we are still confident with this amount of data to construct a good data story.

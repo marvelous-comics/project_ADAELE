@@ -14,8 +14,8 @@ We can thus study this choice of characters, how diverse it is, and if there is 
 	- dc-wikia-data.csv
 - On https://www.kaggle.com/dannielr/marvel-superheroes#marvel_dc_characters.xlsx
 	- marvel_dc_characters.xlsx
-- https://marvel.fandom.com/wiki/Marvel_Comics
-- https://dc.fandom.com/wiki/DC_Comics_Database
+- https://marvel.fandom.com/wiki/Marvel_Comics (1)
+- https://dc.fandom.com/wiki/DC_Comics_Database (2)
 # A list of internal milestones up until project milestone 2
 - 07/11: Get a complete database: parsing and merging all the previously provided datasets 
 - 14/11: Get a completely ready-to-use dataset
@@ -28,3 +28,17 @@ We can thus study this choice of characters, how diverse it is, and if there is 
 - How to scrape on different web pages (for example on one page, we have the names of different characters and each one has a specific page.)
 - Is it possible to plot data in a really fancy way (custom histogram with characters instead of bars) ? 
 
+# Update for milestone 2:
+We've decided to parse again all the website (1) and (2) to get our own and up-to-date database. We have know four differents files:
+- One with all the Marvel characters (that we've limited to Earth-616 which is the mostly known and still regrouping around 28000).
+- One with all the D.C characters.
+- One with all the Marvel comics.
+- One with all the D.C comics.
+Since the creation and modification of each webpage is open to everyone, the cleaning part has been a bit tedious. At the end, we've still have some missing values but they only represent a small part of the dataset. 
+For the D.C characters, we were given whether a character is good or bad which is not the case for the Marvel ones. To solve that, we've decided to look at the appearances of each characteres in each comics and if he was in the good ones or not. Since the webpage are created by anyone, we've decided also to verify the correctness of the good and bad information in DC characters with the same criterion.
+Finally, we've also decided to look at who is writing and editing the comics. This part need to be more looked at to see maybe some characteristics of the editors and the writers. This will be quite easily done since we've stored their URL in our dataset.
+
+You can find every parts in different notebooks:
+PARSING:
+CLEANING:
+DESCRIPTION OF THE DATASETS:

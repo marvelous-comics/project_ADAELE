@@ -24,10 +24,6 @@ We can thus study this choice of characters, how diverse it is, and if there is 
 - 11/12: Data visualization and good idea of the data story.
 - 20/12: Final Report
 
-# Questions for TAa
-- How to scrape on different web pages (for example on one page, we have the names of different characters and each one has a specific page.)
-- Is it possible to plot data in a really fancy way (custom histogram with characters instead of bars) ? 
-
 # Update for milestone 2:
 We've decided to parse again all the website (1) and (2) (i.e. the Marvel and DC wikia) to get our own and up-to-date database. We have now four differents files:
 - One with all the Marvel characters (that we've limited to Earth-616 which is the mostly known Marvel universe, and still regrouping around 28000 characters).
@@ -40,5 +36,7 @@ Finally, we've also decided to look at who is writing and editing the comics. Th
 
 You can find every parts in different notebooks:
 PARSING: parsing_project_ADAELE.ipynb
+
 CLEANING:
+
 DESCRIPTION OF THE DATASETS:

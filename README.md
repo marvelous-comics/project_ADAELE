@@ -90,8 +90,8 @@ The repository of the website can be found [here]().
 - __Jordan Metz__:
 	- Data cleaning
 	- Analysis of the data:
-    		- General characteristic analysis and plots
-    		- Longevity analysis and plots
+		- General characteristic analysis and plots
+		- Longevity analysis and plots
 		- Diversity analysis and plots
 		- Writer and Editor analysis
     

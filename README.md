@@ -51,21 +51,31 @@ Here we are, the datastory is finished. You can find it on https://ahmedkooli.gi
 ## Contributions
 
 - __Ahmed Kooli__:
-    - Parsed the data on the web
+    - Parsed the data on the web (with Antoine)
     - Took care of the website
+    - Wrote the datastory
     
 
 - __Antoine Schmider__:
-    - Parsed the data on the web
+    - Parsed the data on the web (With Ahmed)
     - Helped with the website
+    - Plot the map
+    - Writer editor plots
+    - Researched for plotting library
     
 
 - __Jordan Metz__:
+    - Data cleaning
     - Analysis of the data:
-    	- fdsdf
-	- dsadf
-	- safd
-    - Plot with Plotly
+    	- General characteristic analysis and plots
+    	- Longevity analysis and plots
+	- Diversity analysis and plots
+	- Writer and Editor analysis
+    - Merged the notebooks
+    
     
 - __Pierre-Louis Gaudillère__:
-    - Analysis of the data
+    - Data cleaning
+    - Analysis of the data:
+    	- Behavior (good, evil) analysis and plots
+    - Created reusable code for ploting

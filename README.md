@@ -8,7 +8,7 @@ We can thus study this choice of characters, how diverse it is, and if there is 
 - Evolution of the diversity of characters during the years
 - Compare two major comic books editors : Marvel vs DC
 - Number of appearance of a character: what characteristics are more likely to survive during the years
-# Dataset
+# Dataset (Milestone 1)
 - On https://www.kaggle.com/fivethirtyeight/fivethirtyeight-comic-characters-dataset:
 	- Marvel-wikia-data.csv
 	- dc-wikia-data.csv
@@ -42,3 +42,23 @@ CLEANING:cleaning_project_ADAELE.ipynb
 DESCRIPTION OF THE DATASETS: Marvellous Comics Notebook.ipynb
 
 In this past weeks, we've spend a lot of time to parse the websites and cleaning the data and not as much as we wanted on exploring the data itself. However we've constructed good and solid guidelines detailled in Marvellous Comics Notebook.ipynb and we are still confident with this amount of data to construct a good data story.
+
+# Milestone 3
+
+Here we are, the datastory is finished. You can find it on https://ahmedkooli.github.io . We've study mainly 5 differents aspects. The general portraits of character at Marvel and DC comics, the relationship between portaits and behavior (if they are Good or Evil). We've studied the diversity on the characteristic and also what characteristic make a character famous or forgotten. Finally we've studied the author and editor of both company, to see if there was a link between all the answer that we find, and the writters diversity themselves. 
+
+## Contributions
+
+- __Ahmed Kooli__:
+    - responsible for the Jupyter Notebook
+    
+
+- __Antoine Schmider__:
+    - wrote text/concept for project proposal
+    
+
+- __Jordan Metz__:
+    - sourced the cadastral dataset from the Lausanne office of cadastre
+    
+- __Pierre-Louis Gaudillère__:
+    - blbla

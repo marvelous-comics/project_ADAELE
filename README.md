@@ -82,9 +82,10 @@ The repository of the website can be found [here](github.com/marvelous-comics/ma
 
 - __Antoine Schmider__:
 	- Scraped the data from the web (With Ahmed)
+	- Data cleaning
 	- Helped with the website
 	- Plot the map
-	- Writer editor plots
+	- Writer editor analysis and plots
 	- Researched for plotting library
     
 

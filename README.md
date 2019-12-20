@@ -98,7 +98,7 @@ The repository of the website can be found [here](github.com/marvelous-comics/ma
 		- Writer and Editor analysis
     
     
-- __Pierre-Louis Gaudillère__:
+- __Pierre-Louis Gaudillière__:
 	- Data cleaning
 	- Analysis of the data:
 		- Behavior (good, evil) analysis and plots

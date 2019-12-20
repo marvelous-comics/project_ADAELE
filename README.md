@@ -47,14 +47,14 @@ In this past weeks, we've spend a lot of time to parse the websites and cleaning
 
 # Milestone 3
 
-Here we are, the datastory is finished. Follow this link and enjoy the datastory: [Marvelous Comics, a mirror of society](). 
+Here we are, the datastory is finished. Follow this link and enjoy the datastory: [Marvelous Comics, a mirror of society](marvelous-comics.github.io). 
 
 We've study mainly 5 differents aspects. The general portraits of character at Marvel and DC comics, the relationship between portaits and behavior (if they are Good or Evil). We've studied the diversity on the characteristic and also what characteristic make a character famous or forgotten. Finally we've studied the author and editor of both company, to see if there is a link between all the answer that we found, and the writers diversity themselves. 
 
 ## Datastory
 
 To have a better a experience of the datastory, please download the font: [Komika_hand](https://www.fontsquirrel.com/fonts/komika-hand) and install it following the step on [mac](https://www.fontspring.com/support/how-do-i-install-fonts-on-my-mac), [Windows](https://www.fontspring.com/support/how-do-i-install-fonts-on-my-windows-pc) or [Linux](https://www.linux.com/tutorials/how-manage-fonts-linux/) for the installation. You don't have to do it, but if you are grading us, please do it.
-The repository of the website can be found [here](). 
+The repository of the website can be found [here](github.com/marvelous-comics/marvelous-comics.github.io). 
 
 ## Repo contents
 -  `parsing_project_ADAELE.ipynb` (ML 1): This notebook contains the code used for the scraping of the wiki Comics websites

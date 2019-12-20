@@ -1,5 +1,5 @@
 # Title :
-Marvellous comics: mirror of society
+Marvellous comics: mirror of society [](Milestone 3)
 # Abstract
 Superheroes and villains in comics can have a real impact on society. They’re supposed to represent what’s good and bad. Thus, the way the character is portrayed will have an influence on the reader. If for example all villains are part of the same minority, people will unconsciously see them in real life as bad people. Moreover, a character like Tony Stark could inspire people to study engineering. And these are just examples to illustrate the power comics can have on us.
 We can thus study this choice of characters, how diverse it is, and if there is a tendency towards a specific portrait for superheroes and villains. 
@@ -91,7 +91,7 @@ The repository of the website can be found [here]().
 	- Data cleaning
 	- Analysis of the data:
 		- General characteristic analysis and plots
-		- Longevity analysis and plots
+		- Longevity and famousness analysis and plots
 		- Diversity analysis and plots
 		- Writer and Editor analysis
     
@@ -100,4 +100,4 @@ The repository of the website can be found [here]().
 	- Data cleaning
 	- Analysis of the data:
 		- Behavior (good, evil) analysis and plots
-	- Created reusable code for ploting
+		- Plots for famousness analysis

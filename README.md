@@ -8,7 +8,8 @@ We can thus study this choice of characters, how diverse it is, and if there is 
 - Evolution of the diversity of characters during the years
 - Compare two major comic books editors : Marvel vs DC
 - Number of appearance of a character: what characteristics are more likely to survive during the years
-# Dataset (Milestone 1)
+# Milestone 1
+## Dataset
 - On https://www.kaggle.com/fivethirtyeight/fivethirtyeight-comic-characters-dataset:
 	- Marvel-wikia-data.csv
 	- dc-wikia-data.csv
@@ -16,7 +17,7 @@ We can thus study this choice of characters, how diverse it is, and if there is 
 	- marvel_dc_characters.xlsx
 - https://marvel.fandom.com/wiki/Marvel_Comics (1)
 - https://dc.fandom.com/wiki/DC_Comics_Database (2)
-# A list of internal milestones up until project milestone 2
+## A list of internal milestones up until project milestone 2
 - 07/11: Get a complete database: parsing and merging all the previously provided datasets 
 - 14/11: Get a completely ready-to-use dataset
 - 21/11: Get a general representation of the dataset
@@ -24,7 +25,7 @@ We can thus study this choice of characters, how diverse it is, and if there is 
 - 11/12: Data visualization and good idea of the data story.
 - 20/12: Final Report
 
-# Update for milestone 2:
+# Milestone 2:
 We've decided to parse again all the website (1) and (2) (i.e. the Marvel and DC wikia) to get our own and up-to-date database. We have now four differents files:
 - One with all the Marvel characters (that we've limited to Earth-616 which is the mostly known Marvel universe, and still regrouping around 28000 characters).
 - One with all the D.C characters.
@@ -50,15 +51,21 @@ Here we are, the datastory is finished. You can find it on https://ahmedkooli.gi
 ## Contributions
 
 - __Ahmed Kooli__:
-    - responsible for the Jupyter Notebook
+    - Parsed the data on the web
+    - Took care of the website
     
 
 - __Antoine Schmider__:
-    - wrote text/concept for project proposal
+    - Parsed the data on the web
+    - Helped with the website
     
 
 - __Jordan Metz__:
-    - sourced the cadastral dataset from the Lausanne office of cadastre
+    - Analysis of the data:
+    	- fdsdf
+	- dsadf
+	- safd
+    - Plot with Plotly
     
 - __Pierre-Louis Gaudillère__:
-    - blbla
+    - Analysis of the data

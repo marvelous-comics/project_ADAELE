@@ -48,16 +48,31 @@ In this past weeks, we've spend a lot of time to parse the websites and cleaning
 
 Here we are, the datastory is finished. You can find it on https://ahmedkooli.github.io . We've study mainly 5 differents aspects. The general portraits of character at Marvel and DC comics, the relationship between portaits and behavior (if they are Good or Evil). We've studied the diversity on the characteristic and also what characteristic make a character famous or forgotten. Finally we've studied the author and editor of both company, to see if there was a link between all the answer that we find, and the writters diversity themselves. 
 
-## Contributions
+## Datastory
+To have a better a experience of the datastory, please download the font: Komika_hand<https://www.fontsquirrel.com/fonts/komika-hand> and follow the steps on mac<https://www.fontspring.com/support/how-do-i-install-fonts-on-my-mac> or Windows for the installation 
+
+## Repo contents
+-  `parsing_project_ADAELE.ipynb` (ML 1): This notebook contains the code used for the scraping of the wiki Comics websites
+- `cleaning_project` (ML 1): This notebook contains the code used for the cleaning of the data
+- `Marvellous Comics Notebook.ipynb` (ML 2): This notebook contains a first data acquaintance.
+- `/Editors writers `: Contains the analysis of the writers-editors and some pickled data
+	- `Editors_writers_analysis.ipynb`: Contains the analysis of the writer and editor-in-chief of both journals
+	- `Editors_writers_plots.ipynb`: Contains the ploting of the analysis for the website
+- `Longevity criterion.ipynb` This notebook contains the analysis of the famousness of the character, how we defined the metrics and how we separeted the characters in three groups. There is also a huge amount of plots for the website, such as for: general characterisics of the characters, longevity criterion, diversity and some histogram on some famous characters.
+-`Map Citizenship.ipynb`: Contains the 
+- `.ipynb`
+
+
+## Individual contributions
 
 - __Ahmed Kooli__:
-	- Parsed the data on the web (with Antoine)
+	- Scraped the data on the web (with Antoine)
 	- Took care of the website
 	- Wrote the datastory
     
 
 - __Antoine Schmider__:
-	- Parsed the data on the web (With Ahmed)
+	- Scraped the data on the web (With Ahmed)
 	- Helped with the website
 	- Plot the map
 	- Writer editor plots
@@ -77,5 +92,5 @@ Here we are, the datastory is finished. You can find it on https://ahmedkooli.gi
 - __Pierre-Louis Gaudillère__:
 	- Data cleaning
 	- Analysis of the data:
-    		- Behavior (good, evil) analysis and plots
+		- Behavior (good, evil) analysis and plots
 	- Created reusable code for ploting

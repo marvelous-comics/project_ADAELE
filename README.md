@@ -57,18 +57,20 @@ To have a better a experience of the datastory, please download the font: [Komik
 The repository of the website can be found [here](https://github.com/marvelous-comics/marvelous-comics.github.io). 
 
 ## Repo contents
--  `parsing_project_ADAELE.ipynb` (ML 1): This notebook contains the code used for the scraping of the wiki Comics websites
-- `cleaning_project` (ML 1): This notebook contains the code used for the cleaning of the data
-- `Marvellous Comics Notebook.ipynb` (ML 2): This notebook contains a first data acquaintance.
-- `/Editors writers `: Contains the analysis of the writers-editors and some pickled data
-	- `Editors_writers_analysis.ipynb`: Contains the analysis of the writer and editor-in-chief of both journals
-	- `Editors_writers_plots.ipynb`: Contains the ploting of the analysis for the website
-	- Some more pickle data...
-- `Longevity criterion.ipynb` This notebook contains the analysis of the famousness of the character, how we defined the metrics and how we separeted the characters in three groups. There is also a huge amount of plots for the website, such as for: general characterisics of the characters, longevity criterion, diversity and some histogram on some famous characters.
-- `Map Citizenship.ipynb`: Contains the plot of the map
-- `Behavior Analysis Notebook.ipynb`: Contains the analysis of the behavior (good, evil) characteristic and its plot for the website. The function of plotting are reused for some of the famousness analysis.
-- `/data_pickle`: Folder containing some dataset in a pickle. Used to have a nicer repository.
-- `/img` Contains some images that we saved during the analysis. They are not used on the website.
+- **Notebooks html**: This folder contains all the notebooks in html format. This way, all the plots are displayed. Please refer to this folder to see all the results.
+- **Notebooks ipynb**: This folder contains the following files:
+	-  `parsing_project_ADAELE.ipynb` (ML 1): This notebook contains the code used for the scraping of the wiki Comics websites
+	- `cleaning_project` (ML 1): This notebook contains the code used for the cleaning of the data
+	- `Marvellous Comics Notebook.ipynb` (ML 2): This notebook contains a first data acquaintance.
+	- `/Editors writers `: Contains the analysis of the writers-editors and some pickled data
+		- `Editors_writers_analysis.ipynb`: Contains the analysis of the writer and editor-in-chief of both journals
+		- `Editors_writers_plots.ipynb`: Contains the ploting of the analysis for the website
+		- Some more pickle data...
+	- `Longevity criterion.ipynb` This notebook contains the analysis of the famousness of the character, how we defined the metrics and how we separeted the characters in three groups. There is also a huge amount of plots for the website, such as for: general characterisics of the characters, longevity criterion, diversity and some histogram on some famous characters.
+	- `Map Citizenship.ipynb`: Contains the plot of the map
+	- `Behavior Analysis Notebook.ipynb`: Contains the analysis of the behavior (good, evil) characteristic and its plot for the website. The function of plotting are reused for some of the famousness analysis.
+	- `/data_pickle`: Folder containing some dataset in a pickle. Used to have a nicer repository.
+	- `/img` Contains some images that we saved during the analysis. They are not used on the website.
 
 
 ## Individual contributions

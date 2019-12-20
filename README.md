@@ -49,7 +49,7 @@ In this past weeks, we've spend a lot of time to parse the websites and cleaning
 Here we are, the datastory is finished. You can find it on https://ahmedkooli.github.io . We've study mainly 5 differents aspects. The general portraits of character at Marvel and DC comics, the relationship between portaits and behavior (if they are Good or Evil). We've studied the diversity on the characteristic and also what characteristic make a character famous or forgotten. Finally we've studied the author and editor of both company, to see if there was a link between all the answer that we find, and the writters diversity themselves. 
 
 ## Datastory
-To have a better a experience of the datastory, please download the font: Komika_hand<https://www.fontsquirrel.com/fonts/komika-hand> and follow the steps on mac<https://www.fontspring.com/support/how-do-i-install-fonts-on-my-mac> or Windows for the installation 
+To have a better a experience of the datastory, please download the font: [Komika_hand](https://www.fontsquirrel.com/fonts/komika-hand) and follow the steps on [mac](https://www.fontspring.com/support/how-do-i-install-fonts-on-my-mac) or Windows for the installation 
 
 ## Repo contents
 -  `parsing_project_ADAELE.ipynb` (ML 1): This notebook contains the code used for the scraping of the wiki Comics websites
